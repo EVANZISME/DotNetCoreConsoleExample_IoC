@@ -1,0 +1,13 @@
+X:\test\consoleIoC\obj\Debug\netcoreapp3.1\consoleIoC.csprojAssemblyReference.cache
+X:\test\consoleIoC\obj\Debug\netcoreapp3.1\consoleIoC.AssemblyInfoInputs.cache
+X:\test\consoleIoC\obj\Debug\netcoreapp3.1\consoleIoC.AssemblyInfo.cs
+X:\test\consoleIoC\obj\Debug\netcoreapp3.1\consoleIoC.csproj.CoreCompileInputs.cache
+X:\test\consoleIoC\bin\Debug\netcoreapp3.1\consoleIoC.exe
+X:\test\consoleIoC\bin\Debug\netcoreapp3.1\consoleIoC.deps.json
+X:\test\consoleIoC\bin\Debug\netcoreapp3.1\consoleIoC.runtimeconfig.json
+X:\test\consoleIoC\bin\Debug\netcoreapp3.1\consoleIoC.runtimeconfig.dev.json
+X:\test\consoleIoC\bin\Debug\netcoreapp3.1\consoleIoC.dll
+X:\test\consoleIoC\bin\Debug\netcoreapp3.1\consoleIoC.pdb
+X:\test\consoleIoC\obj\Debug\netcoreapp3.1\consoleIoC.dll
+X:\test\consoleIoC\obj\Debug\netcoreapp3.1\consoleIoC.pdb
+X:\test\consoleIoC\obj\Debug\netcoreapp3.1\consoleIoC.genruntimeconfig.cache
